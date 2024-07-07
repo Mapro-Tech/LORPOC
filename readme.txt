@@ -1,0 +1,1 @@
+Beni oku yoksa fena yaparımmmm..!
