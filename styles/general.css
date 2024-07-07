@@ -1,0 +1,13 @@
+body {
+  font-family: "Titillium Web";
+  background-image: url(../wallpapers/ahri-dikey.jpg);
+  
+}
+
+a:link,
+a:hover,
+a:after,
+a:visited {
+  color: black;
+  text-decoration: solid;
+}
